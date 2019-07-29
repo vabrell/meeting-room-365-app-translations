@@ -1,4 +1,4 @@
-var i18n = {
+{
     'now': 'nu',
     'meeting_room': 'Mötesrum',
     'room_available': 'Rum tillgängligt',
