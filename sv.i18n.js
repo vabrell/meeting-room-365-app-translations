@@ -1,6 +1,7 @@
 var i18n = {
     "now": "nu",
     "meeting_room": "Mötesrum",
+    "room_name": "Mötesrum",
     "room_available": "Rum tillgängligt",
     "tap_here_to_reserve": "Klicka här för att reservera i 15 minuter",
     "insufficient_time_to_reserve": "OTILLRÄCKLIGT MED TID FÖR ATT RESERVERA",
